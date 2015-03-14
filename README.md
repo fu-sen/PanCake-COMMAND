@@ -14,6 +14,36 @@ Windows ではメモ帳を使用する事が可能です。
 * PCN http://pcn.club/
 * イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
 
+
+### バイナリコマンド
+
+PanCake では文字列でコマンドを送る以外に<br />
+バイナリコマンドが存在します。
+
+記載例: 色番号 10（水色）で画面を消去する（PANCAKE CLEAR 0A）<br />
+128 4 0 10
+
+これは Pancake 付属ドキュメント readme.txt では<br />
+16進数表記で記載されています。
+
+80 04 00 0A
+
+しかし、IchigoJam が現在16進数変換に対応していないため、<br />
+この文章では10進数のキャラクターコードで記載しています。
+
+これを IchigoJam から Pancake へ送る場合は<br />
+例えば次のようになります。
+
+PRINT CHR$(128,4,0,10);
+
+PCN で公開されている PanCake のページでは、<br />
+文字列コマンド向けに PALETTE・IMAGE・SPRITE を16進数2桁表記にしているため、<br />
+10進数のキャラクターコードに切り替えて操作して下さい。
+
+PanCake (PCN 内)<br />
+http://pcn.club/ns/pancake.html
+
+
 ### ライセンス
 
 この文章は CC BY NC で公開されている PanCake のページや<br />
