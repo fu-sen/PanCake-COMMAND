@@ -34,7 +34,7 @@ PanCake では文字列でコマンドを送る以外に<br />
 これを IchigoJam から Pancake へ送る場合は<br />
 例えば次のようになります。
 
-PRINT CHR$(128,4,0,10);
+PRINT CHR$(128,4,0,10);<br />
 PRINT CHR$(#80,#04,#00,#0A);
 
 PCN で公開されている PanCake のページでは、<br />
