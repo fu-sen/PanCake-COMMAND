@@ -7,15 +7,15 @@ SPRITE START
 [ コマンド 書式 ]
 PANCAKE SPRITE START <表示>
 
-[ 例 ]
+[ コマンド 例 ]
 PANCAKE SPRITE START 05
 PANCAKE SPRITE START 1A
 
-[ コマンド 書式 ]
+[ バイナリコマンド 書式 ]
 128 4 6 <表示>
 #80 #04 #06 <表示>
 
-[ 例 ]
+[ バイナリコマンド 例 ]
 128 4 6 5
 #128 #04 #06 #05
 128 4 6 26
