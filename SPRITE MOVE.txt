@@ -6,9 +6,11 @@ SPRITE MOVE
 
 [ コマンド 書式 ]
 PANCAKE SPRITE MOVE <スプライト番号> <横座標> <縦座標>
+PC SPRITE MOVE <スプライト番号> <横座標> <縦座標> (1.0～)
 
 [ コマンド 例 ]
 PANCAKE SPRITE MOVE 00 11 13
+PC SPRITE MOVE 00 11 13
 
 [ バイナリコマンド 書式 ]
 128 6 8 <スプライト番号> <横座標> <縦座標>

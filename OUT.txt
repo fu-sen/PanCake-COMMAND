@@ -5,9 +5,11 @@ OUT ポートへ出力します。
 
 [ コマンド 書式 ]
 PANCAKE OUT <出力値>
+PC OUT <出力値> (1.0～)
 
 [ コマンド 例 ]
 PANCAKE OUT FF
+PC OUT FF
 
 [ バイナリコマンド 書式 ]
 128 4 15 <出力値>

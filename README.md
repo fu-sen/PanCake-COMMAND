@@ -1,6 +1,9 @@
 ## PanCake コマンド一覧
 
 PanCake で使用できる命令を一覧しています。
+0.8 以降のファームウェア対応です。
+0.5 はバージョン表記のないコマンドが使用でき、
+PANCAKE および PC を付けない形式となります。
 
 Download ZIP でファイル一覧をダウンロードできます。<br />
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
@@ -36,10 +39,6 @@ PanCake では文字列でコマンドを送る以外に<br />
 
 PRINT CHR$(128,4,0,10);<br />
 PRINT CHR$(#80,#04,#00,#0A);
-
-PCN で公開されている PanCake のページでは、<br />
-文字列コマンド向けに PALETTE・IMAGE・SPRITE を16進数2桁表記にしているため、<br />
-10進数のキャラクターコードに切り替えて操作して下さい。
 
 PanCake (PCN 内)<br />
 http://pcn.club/ns/pancake.html

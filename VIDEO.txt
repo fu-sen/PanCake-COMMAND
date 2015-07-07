@@ -6,9 +6,11 @@ VIDEO
 
 [ コマンド 書式 ]
 PANCAKE VIDEO <設定>
+PC VIDEO <設定> (1.0～)
 
 [ コマンド 例 ]
 PANCAKE VIDEO 01
+PC VIDEO 01
 
 [ バイナリコマンド  書式 ]
 128 4 5 <設定>
