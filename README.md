@@ -13,9 +13,8 @@ RAW で参照した場合、またファイルをダウンロードした場合<
 .txt ファイルは文字コード Shift_JIS、改行コード CR+LF になります。<br />
 Windows ではメモ帳を使用する事が可能です。
 
+* PanCake (公式) http://pancake.shizentai.jp/
 * IchigoJam (公式) http://ichigojam.net/
-* PanCake (PCN 内) http://pcn.club/ns/pancake.html
-* PCN http://pcn.club/
 * イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
 
 
@@ -40,9 +39,6 @@ PanCake では文字列でコマンドを送る以外に<br />
 
 PRINT CHR$(128,4,0,10);<br />
 PRINT CHR$(#80,#04,#00,#0A);
-
-PanCake (PCN 内)<br />
-http://pcn.club/ns/pancake.html
 
 
 ### ライセンス
