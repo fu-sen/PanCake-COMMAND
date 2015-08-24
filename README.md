@@ -45,11 +45,13 @@ PRINT CHR$(#80,#04,#00,#0A);
 
 この文章は CC BY-NC で公開されている PanCake のページや<br />
 Pancake 付属ドキュメント readme.txt<br />
-Facebook グループ「IchigoJam-FAN」などの情報を元に<br />
+Facebook グループ「IchigoJam-FAN」「PanCake-FAN」などの情報を元に<br />
 志賀 慶一 (ふうせん Fu-sen.) が独自に文章化しているものです。
 
 Facebook グループ IchigoJam-FAN<br />
 https://www.facebook.com/groups/ichigojam/<br />
+Facebook グループ PanCake-FAN<br />
+https://www.facebook.com/groups/568222796651326/<br />
 
 製作・公開公開にあたり、PanCake の著作者となる<br />
 株式会社ナチュラルスタイル (NaturalStyle Co. Ltd.) より<br />
