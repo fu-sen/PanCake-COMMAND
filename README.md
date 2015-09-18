@@ -18,6 +18,17 @@ Windows ではメモ帳を使用する事が可能です。
 * イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
 
 
+
+### PDF 版
+
+西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を<br />
+Facebook グループ IchigoJam-FAN 内で公開しています。<br />
+紙面で一覧したい場合はこちらを印刷し、ご利用下さい。
+
+https://www.facebook.com/groups/ichigojam/626631837476573/
+
+
+
 ### バイナリコマンド
 
 PanCake では文字列でコマンドを送る以外に<br />
