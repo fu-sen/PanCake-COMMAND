@@ -1,28 +1,28 @@
 IMAGE
 -----------------------------------------------------------
-[ �@�\ ]
-PanCake �ŗ\�ߗp�ӂ���Ă���摜��`���܂��B
+[ 機能 ]
+PanCake で予め用意されている画像を描きます。
 
-[ �R�}���h ���� ]
-PANCAKE IMAGE <�摜�ԍ�>
-PC IMAGE <�摜�ԍ�> (1.0�`)
+[ コマンド 書式 ]
+PANCAKE IMAGE <画像番号>
+PC IMAGE <画像番号> (1.0～)
 
-[ �R�}���h �� ]
+[ コマンド 例 ]
 PANCAKE IMAGE 05
 PC IMAGE 05
 
-[ �o�C�i���R�}���h ���� ]
-128 4 4 <�摜�ԍ�>
-#80 #04 #04 <�摜�ԍ�>
+[ バイナリコマンド 書式 ]
+128 4 4 <画像番号>
+#80 #04 #04 <画像番号>
 
-[ �o�C�i���R�}���h �� ]
+[ バイナリコマンド 例 ]
 128 4 4 5
 #80 #04 #04 #05
 
-[ ��� ]
-PanCake �ŗp�ӂ���Ă��� <�摜�ԍ�> �� 00�`07 �ł��B
-�摜�̃L���v�`���� PCN �� PanCake �y�[�W�AIMAGE �̈ꗗ�ɂȂ�܂��B
+[ 解説 ]
+PanCake で用意されている <画像番号> は 00～07 です。
+画像のキャプチャは PCN の PanCake ページ、IMAGE の一覧になります。
 
 http://pcn.club/ns/pancake.html
 
-0.5 �ł� IMAGE �� LOGO �ƂȂ��Ă��܂����B
+0.5 では IMAGE が LOGO となっていました。

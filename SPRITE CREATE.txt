@@ -1,32 +1,32 @@
 SPRITE CREATE
-0.8`
+0.8ï½ž
 -----------------------------------------------------------
-[ ‹@”\ ]
-ƒXƒvƒ‰ƒCƒg‚ð¶¬‚µ‚Ü‚·B
+[ æ©Ÿèƒ½ ]
+ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆã‚’ç”Ÿæˆã—ã¾ã™ã€‚
 
-[ ƒRƒ}ƒ“ƒh ‘Ž® ]
-PANCAKE SPRITE CREATE <ƒXƒvƒ‰ƒCƒg”Ô†> <ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“>
-PC SPRITE CREATE <ƒXƒvƒ‰ƒCƒg”Ô†> <ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“> (1.0`)
+[ ã‚³ãƒžãƒ³ãƒ‰ æ›¸å¼ ]
+PANCAKE SPRITE CREATE <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆç•ªå·> <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³>
+PC SPRITE CREATE <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆç•ªå·> <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³> (1.0ï½ž)
 
-[ ƒRƒ}ƒ“ƒh —á ]
+[ ã‚³ãƒžãƒ³ãƒ‰ ä¾‹ ]
 PANCAKE SPRITE CREATE 00 49
 PC SPRITE CREATE 00 49
 
-[ ƒoƒCƒiƒŠƒRƒ}ƒ“ƒh ‘Ž® ]
-128 5 7 <ƒXƒvƒ‰ƒCƒg”Ô†> <ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“>
-#80 #05 #07 <ƒXƒvƒ‰ƒCƒg”Ô†> <ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“>
+[ ãƒã‚¤ãƒŠãƒªã‚³ãƒžãƒ³ãƒ‰ æ›¸å¼ ]
+128 5 7 <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆç•ªå·> <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³>
+#80 #05 #07 <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆç•ªå·> <ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³>
 
-[ ƒoƒCƒiƒŠƒRƒ}ƒ“ƒh —á ]
+[ ãƒã‚¤ãƒŠãƒªã‚³ãƒžãƒ³ãƒ‰ ä¾‹ ]
 128 5 7 0 73
 #80 #05 #07 #00 #49
 
-[ ‰ðà ]
-<ƒXƒvƒ‰ƒCƒg”Ô†> ‚Í 00`0F ‚Ì 16 ì¬‚Å‚«‚Ü‚·B
-”Ô†‚Ì‘å‚«‚¢ƒXƒvƒ‰ƒCƒg‚ªã‚É•\Ž¦‚³‚ê‚Ü‚·B
-<ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“> ‚Í PanCake ‚Å—\‚ß—pˆÓ‚³‚ê‚Ä‚¢‚é
-ƒXƒvƒ‰ƒCƒgƒpƒ^[ƒ“ 00`AF ‚ðŽw’è‚µ‚Ü‚·B
-PCN ‚Ì PanCake ƒy[ƒW SPRITE ‚Éˆê——‚³‚ê‚Ä‚¢‚Ü‚·B
+[ è§£èª¬ ]
+<ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆç•ªå·> ã¯ 00ï½ž0F ã® 16 ä½œæˆã§ãã¾ã™ã€‚
+ç•ªå·ã®å¤§ãã„ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãŒä¸Šã«è¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+<ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³> ã¯ PanCake ã§äºˆã‚ç”¨æ„ã•ã‚Œã¦ã„ã‚‹
+ã‚¹ãƒ—ãƒ©ã‚¤ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³ 00ï½žAF ã‚’æŒ‡å®šã—ã¾ã™ã€‚
+PCN ã® PanCake ãƒšãƒ¼ã‚¸ SPRITE ã«ä¸€è¦§ã•ã‚Œã¦ã„ã¾ã™ã€‚
 
 http://pcn.club/ns/pancake.html
 
-1.0 ‚æ‚è USER ‚Å¶¬‚µ‚½”Ô† FEEFF ‚àŽw’è‰Â”\‚Å‚·B
+1.0 ã‚ˆã‚Š USER ã§ç”Ÿæˆã—ãŸç•ªå· FEãƒ»FF ã‚‚æŒ‡å®šå¯èƒ½ã§ã™ã€‚

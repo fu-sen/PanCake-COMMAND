@@ -1,27 +1,27 @@
 MUSIC PLAY
-0.8`
+0.8ï½ž
 -----------------------------------------------------------
-[ ‹@”\ ]
-MUSIC SCORE ‚ÅŽw’è‚µ‚½ MML ‚ðÄ¶E’âŽ~‚µ‚Ü‚·B
+[ æ©Ÿèƒ½ ]
+MUSIC SCORE ã§æŒ‡å®šã—ãŸ MML ã‚’å†ç”Ÿãƒ»åœæ­¢ã—ã¾ã™ã€‚
 
-[ ƒRƒ}ƒ“ƒh ‘Ž® ]
-PANCAKE MUSIC PLAY <ƒ‚[ƒh>
-PC MUSIC PLAY <ƒ‚[ƒh> (1.0`)
+[ ã‚³ãƒžãƒ³ãƒ‰ æ›¸å¼ ]
+PANCAKE MUSIC PLAY <ãƒ¢ãƒ¼ãƒ‰>
+PC MUSIC PLAY <ãƒ¢ãƒ¼ãƒ‰> (1.0ï½ž)
 
-[ ƒRƒ}ƒ“ƒh —á ]
+[ ã‚³ãƒžãƒ³ãƒ‰ ä¾‹ ]
 PANCAKE MUSIC PLAY 01
 PC MUSIC PLAY 01
 
-[ ƒoƒCƒiƒŠƒRƒ}ƒ“ƒh ‘Ž® ]
-128 4 12 <ƒ‚[ƒh>
-#80 #04 #0C <ƒ‚[ƒh>
+[ ãƒã‚¤ãƒŠãƒªã‚³ãƒžãƒ³ãƒ‰ æ›¸å¼ ]
+128 4 12 <ãƒ¢ãƒ¼ãƒ‰>
+#80 #04 #0C <ãƒ¢ãƒ¼ãƒ‰>
 
-[ ƒoƒCƒiƒŠƒRƒ}ƒ“ƒh —á ]
+[ ãƒã‚¤ãƒŠãƒªã‚³ãƒžãƒ³ãƒ‰ ä¾‹ ]
 128 4 12 1
 #80 #04 #0C #01
 
-[ ‰ðà ]
-<ƒ‚[ƒh> ‚Í 01 ‚ªÄ¶A00 ‚ª’âŽ~‚Å‚·B
+[ è§£èª¬ ]
+<ãƒ¢ãƒ¼ãƒ‰> ã¯ 01 ãŒå†ç”Ÿã€00 ãŒåœæ­¢ã§ã™ã€‚
 
-MUSIC SCORE ‚Å‚»‚ê‚¼‚ê‚Ìƒ`ƒƒƒ“ƒlƒ‹–ˆ‚É MML ‚ðÝ’è‚µ‚Ä‚¨‚«A
-MUSIC PLAY ‚Å“¯ŽžÄ¶‚·‚éŽ–‚ª‚Å‚«‚Ü‚·B
+MUSIC SCORE ã§ãã‚Œãžã‚Œã®ãƒãƒ£ãƒ³ãƒãƒ«æ¯Žã« MML ã‚’è¨­å®šã—ã¦ãŠãã€
+MUSIC PLAY ã§åŒæ™‚å†ç”Ÿã™ã‚‹äº‹ãŒã§ãã¾ã™ã€‚
