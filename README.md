@@ -1,10 +1,10 @@
 ## PanCake コマンド一覧
 
 PanCake で使用できる命令を一覧しています。<br />
-0.8 以降のファームウェア対応です。<br />
-0.5 が存在しますが、ネット上では公開されていないため、<br />
+PanCake 0.8 以降のファームウェア対応です。<br />
+PanCake 0.5 が存在しますが、ネット上では公開されていないため、<br />
 これを考慮する必要はありません。<br />
-PCN として商品販売をはじめているのは 0.9 からとなります。
+PCN として商品販売をはじめているのは PanCake 0.9 からとなります。
 
 Download ZIP でファイル一覧をダウンロードできます。<br />
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
@@ -18,7 +18,17 @@ Windows ではメモ帳を使用する事が可能です。
 * IchigoJam (公式) http://ichigojam.net/
 * イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
 
+### PanCakeプチコン３号Edition について
 
+PanCakeプチコン３号Edition は背景画像・スプライトが<br />
+ニンテンドー3DS 版「プチコン３号」より得られた<br />
+キャラクターと画像に変更されています。<br />
+コマンドそのものは PanCake 1.0 と同じ動作となります。
+
+* PanCakeプチコン３号Edition (公式) http://panpetit.shizentai.jp/
+
+PanCakeプチコン３号Edition: (C)PCN (C)SmileBoom Co.Ltd.<br />
+SmileBoom、プチコン３号 は 株式会社スマイルブーム の登録商標です。
 
 ### PDF 版
 
@@ -56,20 +66,22 @@ PRINT CHR$(#80,#04,#00,#0A);
 
 
 
-### IchigoJam 1.1 以降で使用する場合の注意
+### IchigoJam BASIC 1.1 以降で使用する場合の注意
 
-1.1 beta（1.0.2 beta9〜11 を含む）より<br />
+IchigoJam BASIC 1.1 beta（1.0.2 beta9〜11 を含む）より<br />
 カーソル移動・画面クリア・スクロールなどを<br />
 コントロールコードでシリアル送出する仕様になりました。<br />
-PanCake は 1.0 までにこの仕様を反映していないため、<br />
+PanCake 1.0 までにこの仕様を反映していないため、<br />
 コントロールコードを受け取る事で動作が停止する場合があります。
 
-この対処として、1.0.2 beta 11 より UART コマンドが追加されているため、<br />
+この対処として、IchigoJam BASIC 1.0.2 beta 11 より<br />
+UART コマンドが追加されているため、<br />
 UART 1 を予め実行してから PanCake のコマンド送出を行って下さい。
 
-なお、1.0.2 beta12 は 1.0.1 からの引き継ぎとなるため、<br />
-現在最新公開されている 1.0 系でこの問題は生じません。<br />
-1.0.2 beta11 から 1.1.0 beta1（現在の 1.1 beta）へ引き継がれています。
+IchigoJam BASIC 1.0.2 beta 12 は 1.0.1 を継承しているため、<br />
+上記の対象外となります。<br />
+ただし、このバージョンを継承した正式版は公開されていません。<br />
+（IchigoJam BASIC 1.0.2 beta 11→1.1 beta→1.1.1 が正式公開されています）
 
 
 ### ライセンス
@@ -90,7 +102,7 @@ https://www.facebook.com/groups/568222796651326/<br />
 
 NaturalStyle Co. Ltd. http://na-s.jp/
 
-Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015.
+Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2016.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
