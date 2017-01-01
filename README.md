@@ -16,7 +16,7 @@ Windows ではメモ帳を使用する事が可能です。
 
 * PanCake (公式) http://pancake.shizentai.jp/
 * IchigoJam (公式) http://ichigojam.net/
-* イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
 ### PanCakeプチコン３号Edition について
 
@@ -102,7 +102,7 @@ https://www.facebook.com/groups/568222796651326/<br />
 
 NaturalStyle Co. Ltd. http://na-s.jp/
 
-Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2016.
+Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2017.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
