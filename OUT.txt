@@ -10,7 +10,7 @@ PC OUT <出力値> (1.0～)
 
 [ コマンド 例 ]
 PANCAKE OUT FF
-PC OUT FF
+PC OUT FF (1.0～)
 
 [ バイナリコマンド 書式 ]
 128 4 15 <出力値>

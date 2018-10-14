@@ -6,7 +6,7 @@ SPRITE ROTATE
 
 [ コマンド 書式 ]
 PANCAKE SPRITE ROTATE <スプライト番号> <回転>
-PC SPRITE ROTATE <スプライト番号> <回転> (1.0～)
+PC SPRITE ROTATE <スプライト番号> <回転>
 
 [ コマンド 例 ]
 PANCAKE SPRITE ROTATE 02 03

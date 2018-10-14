@@ -12,9 +12,9 @@ PC MUSIC PLAY <モード> [<チャンネル>] (1.1～)
 
 [ コマンド 例 ]
 PANCAKE MUSIC PLAY 01
-PC MUSIC PLAY 01
-PANCAKE MUSIC PLAY 01 02
-PC MUSIC PLAY 01 02
+PC MUSIC PLAY 01 (1.0～)
+PANCAKE MUSIC PLAY 01 02 (1.1～)
+PC MUSIC PLAY 01 02 (1.1～)
 
 [ バイナリコマンド 書式 ]
 128 4 12 <モード>
@@ -35,7 +35,7 @@ MUSIC SCORE でそれぞれのチャンネル毎に MML を設定しておき、
 MUSIC PLAY で同時再生する事ができます。
 
 1.1 より <チャンネル> が追加されています。
-<チャンネル> 00〜03 を指定した場合は、
+<チャンネル> 00?03 を指定した場合は、
 そのチャンネルのみを再生・停止します。
 
 バイナリコマンドの <バイト数> は 128(#80) からの数です。
