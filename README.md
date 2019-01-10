@@ -14,7 +14,7 @@ RAW で参照した場合、またファイルをダウンロードした場合\
 Windows ではメモ帳を使用する事が可能です。
 
 * PanCake (公式) http://pancake.shizentai.jp/
-* IchigoJam (公式) http://ichigojam.net/
+* IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
 ### PanCakeプチコン３号Edition について
@@ -105,7 +105,7 @@ NaturalStyle Co. Ltd. http://na-s.jp/
 
 Maked by 志賀 慶一 (ふうせん Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2019.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
-この 文章 は <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際</a> (CC BY-NC 4.0) ライセンスで\
+この 文章 は <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際</a> (CC BY-NC 4.0) ライセンスで\
 提供しています。
