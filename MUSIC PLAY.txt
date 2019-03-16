@@ -1,4 +1,4 @@
-MUSIC PLAY
+﻿MUSIC PLAY / MPLAY(IchigoCake)
 0.9～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,13 +8,19 @@ MUSIC SCORE で指定した MML を再生・停止します。
 PANCAKE MUSIC PLAY <モード>
 PC MUSIC PLAY <モード> (1.0～)
 PANCAKE MUSIC PLAY <モード> [<チャンネル>] (1.1～)
-PC MUSIC PLAY <モード> [<チャンネル>] (1.1～)
+PC MUSIC PLAY <モード>[<チャンネル>] (1.1～)
+
+PC.MPLAY <モード>,[<チャンネル>] (IchigoCake)
 
 [ コマンド 例 ]
 PANCAKE MUSIC PLAY 01
 PC MUSIC PLAY 01 (1.0～)
 PANCAKE MUSIC PLAY 01 02 (1.1～)
 PC MUSIC PLAY 01 02 (1.1～)
+
+PC.MPLAY 1 (IchigoCake)
+PC.MPLAY 1,2 (IchigoCake)
+
 
 [ バイナリコマンド 書式 ]
 128 4 12 <モード>

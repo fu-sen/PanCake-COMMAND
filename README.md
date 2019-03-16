@@ -29,6 +29,15 @@ PanCakeプチコン３号Edition は背景画像・スプライトが\
 PanCakeプチコン３号Edition: (C)PCN (C)SmileBoom Co.Ltd.\
 SmileBoom、プチコン３号 は 株式会社スマイルブーム の登録商標です。
 
+### IchigoCake 専用コマンドについて
+
+IchigoCake には PanCake の機能が備わっていて、
+IchigoCake 対応版 IchigoJam BASIC では PanCake のコマンドに対応しています。
+
+更に IchigoCake では PanCake コマンドに対応する専用コマンドが存在します。
+こちらは「(IchigoCake)」を付加しています。
+専用コマンドを使用する場合、PRINT・? は不要です。
+
 ### PDF 版
 
 西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を\

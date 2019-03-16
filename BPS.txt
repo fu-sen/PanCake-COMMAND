@@ -1,4 +1,4 @@
-BPS
+﻿BPS
 1.0～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,14 @@ BPS
 PANCAKE BPS <通信速度>
 PC BPS <通信速度>
 
+PC.BPS <通信速度> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE BPS 2580
 PC BPS 2580
+
+PC.BPS 9600 (IchigoCake)
+
 9600bps に設定します。
 
 [ バイナリコマンド 書式 ]

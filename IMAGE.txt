@@ -1,4 +1,4 @@
-IMAGE
+﻿IMAGE
 0.8～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ PanCake で予め用意されている画像を描きます。
 PANCAKE IMAGE <画像番号>
 PC IMAGE <画像番号> (1.0～)
 
+PC.IMAGE <画像番号> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE IMAGE 05
 PC IMAGE 05 (1.0～)
+
+PC.IMAGE #5 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 4 4 <画像番号>

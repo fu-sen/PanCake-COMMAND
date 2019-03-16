@@ -1,4 +1,4 @@
-SPRITE CREATE
+﻿SPRITE CREATE / SCREATE(IchigoCake)
 0.8～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ SPRITE CREATE
 PANCAKE SPRITE CREATE <スプライト番号> <スプライトパターン>
 PC SPRITE CREATE <スプライト番号> <スプライトパターン> (1.0～)
 
+PC.SCREATE <スプライト番号>,<スプライトパターン> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE SPRITE CREATE 00 49
 PC SPRITE CREATE 00 49 (1.0～)
+
+PC.SCREATE #00,#49 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 5 7 <スプライト番号> <スプライトパターン>

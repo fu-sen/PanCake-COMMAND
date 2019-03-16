@@ -1,4 +1,4 @@
-MUSIC LOAD
+﻿MUSIC LOAD / MLOAD(IchigoCake)
 1.1～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ MUSIC LOAD
 PANCAKE MUSIC LOAD <チャンネル> <音>
 PC MUSIC LOAD <チャンネル> <音>
 
+PC.MLOAD <チャンネル>,<音> (IchigoCake)
+
 [ コマンド 例 ]
-PANCAKE MUSIC PLAY 01 02
-PC MUSIC PLAY 01 02
+PANCAKE MUSIC LOAD 01 02
+PC MUSIC LOAD 01 02
+
+PC.MLOAD 1,2 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 5 21 <チャンネル> <モード>

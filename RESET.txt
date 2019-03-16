@@ -1,4 +1,4 @@
-RESET
+﻿RESET
 0.9～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ RESET
 PANCAKE RESET
 PC RESET (1.0～)
 
+PC.RESET (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE RESET
 PC RESET (1.0～)
+
+PC.RESET (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 3 13

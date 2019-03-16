@@ -1,4 +1,4 @@
-SPRITE ROTATE
+﻿SPRITE ROTATE / SROTATE(IchigoCake)
 1.0～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ SPRITE ROTATE
 PANCAKE SPRITE ROTATE <スプライト番号> <回転>
 PC SPRITE ROTATE <スプライト番号> <回転>
 
+PC.SROTATE <スプライト番号>,<回転> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE SPRITE ROTATE 02 03
 PC SPRITE ROTATE 02 03
+
+PC.SROTATE #02,3 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 5 17 <スプライト番号> <回転>

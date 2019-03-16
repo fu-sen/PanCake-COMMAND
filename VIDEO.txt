@@ -1,4 +1,4 @@
-VIDEO
+﻿VIDEO
 0.8～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ VIDEO
 PANCAKE VIDEO <設定>
 PC VIDEO <設定> (1.0～)
 
+PC.VIDEO <設定> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE VIDEO 01
 PC VIDEO 01 (1.0～)
+
+PC.VIDEO 1 (IchigoCake)
 
 [ バイナリコマンド  書式 ]
 128 4 5 <設定>

@@ -1,4 +1,4 @@
-SPRITE FLIP
+﻿SPRITE FLIP / SFLIP(ichigoCake)
 1.0～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ SPRITE FLIP
 PANCAKE SPRITE FLIP <スプライト番号> <反転>
 PC SPRITE FLIP <スプライト番号> <反転>
 
+PC.SFLIP <スプライト番号>,<反転> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE SPRITE FLIP 02 01
 PC SPRITE FLIP 02 01
+
+PC.SFLIP #02,1 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 5 16 <スプライト番号> <反転>

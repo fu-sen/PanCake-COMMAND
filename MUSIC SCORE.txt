@@ -1,4 +1,4 @@
-MUSIC SCORE
+﻿MUSIC SCORE / MSCORE(IchigoCake)
 0.9～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ MML で音を指定します。
 PANCAKE MUSIC SCORE <チャンネル> <再生モード> <テンポ・音色> <MML>
 PC MUSIC SCORE <チャンネル> <再生モード> <テンポ・音色> <MML> (1.0～)
 
+PC.MSCORE <チャンネル>,<再生モード>,<テンポ・音色>,"<MML>" (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE MUSIC SCORE 00 01 30 CDEFGAB>C
-PC MUSIC SCORE 00 01 30 CDEFGAB>C (1.0～)
+PC MUSIC SCORE 00 01 30 CDEFGAB>C
+
+PC.MSCORE 0,1,#30,"CDEFGAB>C" (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 <長さ> 11 <チャンネル> <再生モード> <テンポ・音色> <MML> <MML> ... 255

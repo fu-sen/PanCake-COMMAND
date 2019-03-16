@@ -1,4 +1,4 @@
-CLEAR
+﻿CLEAR
 
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ CLEAR
 PANCAKE CLEAR <色番号>
 PC CLEAR <色番号> (1.0～)
 
+PC.CLEAR <色番号> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE CLEAR 0A
 PC CLEAR 0A (1.0～)
+
+PC.CLEAR #A (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 4 0 <色番号>

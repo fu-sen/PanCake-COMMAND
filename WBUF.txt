@@ -8,9 +8,14 @@ Wバッファモードを切り替えます。
 PANCAKE WBUF <設定>
 PC WBUF <設定>
 
+PC.WBUF <設定> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE WBUF 01
 PC WBUF 01
+
+PC WBUF 1 (ichigoCake)
+
 モードを ON にします。
 
 [ バイナリコマンド 書式 ]

@@ -1,4 +1,4 @@
-SPRITE START
+﻿SPRITE START / SSTART(IchigoCake)
 0.8～
 -----------------------------------------------------------
 [ 機能 ]
@@ -8,9 +8,13 @@ SPRITE START
 PANCAKE SPRITE START <表示>
 PC SPRITE START <表示> (1.0～)
 
+PC.SSTART <表示> (IchigoCake)
+
 [ コマンド 例 ]
 PANCAKE SPRITE START 05
-PC SPRITE START 1A (1.0～)
+PC SPRITE START 05 (1.0～)
+
+PC.SSTART #05 (IchigoCake)
 
 [ バイナリコマンド 書式 ]
 128 4 6 <表示>
