@@ -4,17 +4,23 @@
 [ 機能 ]
 用意されている音をチャンネルに割り当てます。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE MUSIC LOAD <チャンネル> <音>
 PC MUSIC LOAD <チャンネル> <音>
 
 PC.MLOAD <チャンネル>,<音> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE MUSIC LOAD 01 02
 PC MUSIC LOAD 01 02
 
 PC.MLOAD 1,2 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+mLoad(<チャンネル>,<音>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+mLoad(1,2)
 
 [ バイナリコマンド 書式 ]
 128 5 21 <チャンネル> <モード>

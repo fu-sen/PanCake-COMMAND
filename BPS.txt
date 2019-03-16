@@ -4,19 +4,25 @@
 [ 機能 ]
 通信速度を設定します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE BPS <通信速度>
 PC BPS <通信速度>
 
 PC.BPS <通信速度> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE BPS 2580
 PC BPS 2580
 
 PC.BPS 9600 (IchigoCake)
 
 9600bps に設定します。
+
+[ IchigoCake JavaScript コマンド 書式 ]
+bps(<通信速度>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+bps(9600)
 
 [ バイナリコマンド 書式 ]
 128 5 19 <通信速度下位> <通信速度上位>

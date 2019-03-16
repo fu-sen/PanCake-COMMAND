@@ -4,17 +4,23 @@
 [ 機能 ]
 円を描きます。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE CIRCLE <中心横座標> <中心縦座標> <半径> <色番号>
 PC CIRCLE <中心横座標> <中心縦座標> <半径> <色番号> (1.0～)
 
 PC.CIRCLE <中心横座標>,<中心縦座標>,<半径>,<色番号> (IchioCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE CIRCLE 10 10 05 0A
 PC CIRCLE 10 10 05 0A (1.0～)
 
 PC.CIRCLE 16,16,5,#A (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+circle(<中心横座標>,<中心縦座標>,<半径>,<色番号>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+circle(16,16,5,0x0a)
 
 [ バイナリコマンド 書式 ]
 128 7 14 <中心横座標> <中心縦座標> <半径> <色番号>

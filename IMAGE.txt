@@ -4,17 +4,23 @@
 [ 機能 ]
 PanCake で予め用意されている画像を描きます。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE IMAGE <画像番号>
 PC IMAGE <画像番号> (1.0～)
 
 PC.IMAGE <画像番号> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE IMAGE 05
 PC IMAGE 05 (1.0～)
 
 PC.IMAGE #5 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+image(<画像番号>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+image(5)
 
 [ バイナリコマンド 書式 ]
 128 4 4 <画像番号>

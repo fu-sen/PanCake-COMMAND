@@ -32,11 +32,14 @@ SmileBoom、プチコン３号 は 株式会社スマイルブーム の登録�
 ### IchigoCake 専用コマンドについて
 
 IchigoCake には PanCake の機能が備わっていて、\
-IchigoCake 対応版 IchigoJam BASIC では PanCake のコマンドに対応しています。
+IchigoCake 対応版 IchigoJam BASIC および JavaScript では
+PanCake のコマンドに対応しています。
 
 更に IchigoCake では PanCake コマンドに対応する専用コマンドが存在します。\
-こちらは「(IchigoCake)」を付加しています。\
-専用コマンドを使用する場合、PRINT・? は不要です。
+こちらは BASIC では「(IchigoCake)」、\
+javaScript では「IchigoCake Java Script」の見出しで付加しています。\
+BASIC で専用コマンドを使用する場合、PRINT・? は不要です。
+JavaScript では var p = new PanCake(); とオブジェクトを作成して使用します。
 
 ### PDF 版
 

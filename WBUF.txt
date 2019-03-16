@@ -4,19 +4,25 @@ C 1.2～
 [ 機能 ]
 Wバッファモードを切り替えます。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE WBUF <設定>
 PC WBUF <設定>
 
 PC.WBUF <設定> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE WBUF 01
 PC WBUF 01
 
-PC WBUF 1 (ichigoCake)
+PC WBUF 1 (IchigoCake)
 
 モードを ON にします。
+
+[ IchigoCake JavaScript コマンド 書式 ]
+wbuf(<設定>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+wbuf(1)
 
 [ バイナリコマンド 書式 ]
 128 4 23 <設定>

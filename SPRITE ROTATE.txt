@@ -4,17 +4,23 @@
 [ 機能 ]
 スプライトを回転します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE SPRITE ROTATE <スプライト番号> <回転>
 PC SPRITE ROTATE <スプライト番号> <回転>
 
 PC.SROTATE <スプライト番号>,<回転> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE SPRITE ROTATE 02 03
 PC SPRITE ROTATE 02 03
 
 PC.SROTATE #02,3 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+sRotate(<スプライト番号>,<回転>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+sRotate(0x02,3)
 
 [ バイナリコマンド 書式 ]
 128 5 17 <スプライト番号> <回転>

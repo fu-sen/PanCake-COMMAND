@@ -4,17 +4,23 @@
 [ 機能 ]
 スプライトモードへの開始・終了を行います。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE SPRITE START <表示>
 PC SPRITE START <表示> (1.0～)
 
 PC.SSTART <表示> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE SPRITE START 05
 PC SPRITE START 05 (1.0～)
 
 PC.SSTART #05 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+sStart(<表示>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+sStart(0x05)
 
 [ バイナリコマンド 書式 ]
 128 4 6 <表示>

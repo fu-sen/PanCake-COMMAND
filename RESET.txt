@@ -4,17 +4,23 @@
 [ 機能 ]
 初期状態に戻します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE RESET
 PC RESET (1.0～)
 
 PC.RESET (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE RESET
 PC RESET (1.0～)
 
 PC.RESET (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+reset()
+
+[ IchigoCake JavaScript コマンド 例 ]
+reset()
 
 [ バイナリコマンド 書式 ]
 128 3 13

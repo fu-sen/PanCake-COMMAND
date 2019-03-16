@@ -4,17 +4,23 @@
 [ 機能 ]
 OUT ポートへ出力します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE OUT <出力値>
 PC OUT <出力値> (1.0～)
 
 PC.OUT <出力値> (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE OUT FF
 PC OUT FF (1.0～)
 
 PC.OUT `11111111 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+out(<出力値>)
+
+[ IchigoCake JavaScript コマンド 例 ]
+out(0xff)
 
 [ バイナリコマンド 書式 ]
 128 4 15 <出力値>
@@ -29,5 +35,5 @@ PC.OUT `11111111 (IchigoCake)
 01 02 04 08 10 20 40 80 を加えた値となります。
 バイナリコマンドでは 1 2 4 8 16 32 64 128（#01 #02 #04 #08 #10 #20 #40 #80）です。
 
-IchigoCake だと 2進数表記も可能です。
+IchigoCake 対応版 IchigoJam BASIC では2進数表記も可能です。
 右から OUT1、一番左が OUT8 で端子毎で 0・1 の表記にできます。

@@ -4,17 +4,23 @@
 [ 機能 ]
 スプライトを生成します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE SPRITE CREATE <スプライト番号> <スプライトパターン>
 PC SPRITE CREATE <スプライト番号> <スプライトパターン> (1.0～)
 
-PC.SCREATE <スプライト番号>,<スプライトパターン> (IchigoCake)
+PC.SCREATE <スプライト番号>,<スプライトパターン (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE SPRITE CREATE 00 49
 PC SPRITE CREATE 00 49 (1.0～)
 
 PC.SCREATE #00,#49 (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+sCreate(<スプライト番号>,<スプライトパターン)
+
+[ IchigoCake JavaScript コマンド 例 ]
+sCreate(0x00,0x49)
 
 [ バイナリコマンド 書式 ]
 128 5 7 <スプライト番号> <スプライトパターン>

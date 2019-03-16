@@ -4,17 +4,23 @@
 [ 機能 ]
 MML で音を指定します。
 
-[ コマンド 書式 ]
+[ BASIC コマンド 書式 ]
 PANCAKE MUSIC SCORE <チャンネル> <再生モード> <テンポ・音色> <MML>
 PC MUSIC SCORE <チャンネル> <再生モード> <テンポ・音色> <MML> (1.0～)
 
 PC.MSCORE <チャンネル>,<再生モード>,<テンポ・音色>,"<MML>" (IchigoCake)
 
-[ コマンド 例 ]
+[ BASIC コマンド 例 ]
 PANCAKE MUSIC SCORE 00 01 30 CDEFGAB>C
 PC MUSIC SCORE 00 01 30 CDEFGAB>C
 
 PC.MSCORE 0,1,#30,"CDEFGAB>C" (IchigoCake)
+
+[ IchigoCake JavaScript コマンド 書式 ]
+mScore(<チャンネル>,<再生モード>,<テンポ・音色>,"<MML>")
+
+[ IchigoCake JavaScript コマンド 例 ]
+mScore(0,1,0x30,"CDEFGAB>C")
 
 [ バイナリコマンド 書式 ]
 128 <長さ> 11 <チャンネル> <再生モード> <テンポ・音色> <MML> <MML> ... 255
