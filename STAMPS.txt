@@ -4,17 +4,19 @@
 [ 機能 ]
 スプライト画像を描きます。
 
-[ BASIC コマンド 書式 ]
+[ 共通コマンド 書式 ]
 PANCAKE STAMPS <左上横座標> <左上縦座標> <スプライトパターン>[ <反転>][ <回転>]
 PC STAMPS <左上横座標> <左上縦座標> <スプライトパターン>[ <反転>][ <回転>]
- 
-PC.STAMPS <左上横座標>,<左上縦座標>,<スプライトパターン>[,<反転>][,<回転>] (IchigoCake)
 
-[ BASIC コマンド 例 ]
+[ 共通コマンド 例 ]
 PANCAKE STAMPS 25 13 49 00 00
 PC STAMPS 25 13 49 00 00
 
-PC.STAMPS 37,19,#49,0,0 (IchigoCake)
+[ IchigoCake BASIC コマンド 書式 ]
+PC.STAMPS <左上横座標>,<左上縦座標>,<スプライトパターン>[,<反転>][,<回転>]
+
+[ IchigoCake BASIC コマンド 例 ]
+PC.STAMPS 37,19,#49,0,0
 
 [ IchigoCake JavaScript コマンド 書式 ]
 stamps(<左上横座標>,<左上縦座標>,<スプライトパターン>[,<反転>][,<回転>])

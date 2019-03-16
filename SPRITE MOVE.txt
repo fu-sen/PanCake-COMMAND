@@ -4,16 +4,18 @@
 [ 機能 ]
 スプライトを移動します。
 
-[ BASIC コマンド 書式 ]
+[ 共通コマンド 書式 ]
 PANCAKE SPRITE MOVE <スプライト番号> <横座標> <縦座標>
 PC SPRITE MOVE <スプライト番号> <横座標> <縦座標> (1.0～)
 
-PC.SMOVE <スプライト番号>,<横座標>,<縦座標> (IchigoCake)
-
-[ BASIC コマンド 例 ]
+[ 共通コマンド 例 ]
 PANCAKE SPRITE MOVE 00 11 13
 PC SPRITE MOVE 00 11 13 (1.0～)
 
+[ IchigoCake BASIC コマンド 書式 ]
+PC.SMOVE <スプライト番号>,<横座標>,<縦座標>
+
+[ IchigoCake BASIC コマンド 例 ]
 PC.SMOVE #00,17,19 (IchigoCake)
 
 [ IchigoCake JavaScript コマンド 書式 ]

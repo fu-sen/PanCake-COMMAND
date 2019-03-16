@@ -36,8 +36,8 @@ IchigoCake 対応版 IchigoJam BASIC および JavaScript では
 PanCake のコマンドに対応しています。
 
 更に IchigoCake では PanCake コマンドに対応する専用コマンドが存在します。\
-こちらは BASIC では「(IchigoCake)」、\
-javaScript では「IchigoCake Java Script」の見出しで付加しています。\
+こちらは BASIC では「IchigoCake BASIC」、\
+javaScript では「IchigoCake JavaScript」の見出しで付加しています。\
 BASIC で専用コマンドを使用する場合、PRINT・? は不要です。
 JavaScript では var p = new PanCake(); とオブジェクトを作成して使用します。
 
@@ -78,9 +78,7 @@ PRINT CHR$(128,4,0,10);
 PRINT CHR$(#80,#04,#00,#0A);
 ```
 
-; はなくても構いません。余計な部分は PanCake は無視します。
-
-
+; はなくても構いません。余計な部分を PanCake は無視します。
 
 ### IchigoJam BASIC 1.1 以降で使用する場合の注意
 

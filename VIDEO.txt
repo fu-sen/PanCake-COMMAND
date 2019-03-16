@@ -4,17 +4,19 @@
 [ 機能 ]
 映像出力の表示・非表示を設定します。
 
-[ BASIC コマンド 書式 ]
+[ 共通コマンド 書式 ]
 PANCAKE VIDEO <設定>
 PC VIDEO <設定> (1.0～)
 
-PC.VIDEO <設定> (IchigoCake)
-
-[ BASIC コマンド 例 ]
+[ 共通Bコマンド 例 ]
 PANCAKE VIDEO 01
 PC VIDEO 01 (1.0～)
 
-PC.VIDEO 1 (IchigoCake)
+[ IchigoCake BASIC コマンド 書式 ]
+PC.VIDEO <設定>
+
+[ IchigoCake BASIC コマンド 例 ]
+PC.VIDEO 1
 
 [ IchigoCake JavaScript コマンド 書式 ]
 video(<設定>)
