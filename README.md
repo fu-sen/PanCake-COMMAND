@@ -38,7 +38,7 @@ PanCake のコマンドに対応しています。
 更に IchigoCake では PanCake コマンドに対応する専用コマンドが存在します。\
 こちらは BASIC では「IchigoCake BASIC」、\
 javaScript では「IchigoCake JavaScript」の見出しで付加しています。\
-BASIC で専用コマンドを使用する場合、PRINT・? は不要です。
+BASIC で専用コマンドを使用する場合、PRINT・? は不要です。\
 JavaScript では var p = new PanCake(); とオブジェクトを作成して使用します。
 
 ### PDF 版
