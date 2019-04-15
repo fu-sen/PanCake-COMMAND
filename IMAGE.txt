@@ -36,6 +36,6 @@ image(5)
 PanCake で用意されている <画像番号> は 00～07 です。
 画像のキャプチャは PCN の PanCake ページ、IMAGE の一覧になります。
 
-http://pcn.club/ns/pancake.html
+http://pancake.shizentai.jp/
 
 0.5 では IMAGE が LOGO となっていました。

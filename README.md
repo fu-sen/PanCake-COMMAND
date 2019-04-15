@@ -42,11 +42,7 @@ IchigoCake JavaScript では var pc = new PanCake(); とオブジェクトを作
 ```
 var pc = new PanCake();
 
-pc.clear(0);
-while (1)
-{
-    pc.line(0,0,rnd(80),rnd(45),rnd(16));
-}
+pc.image(4);
 ```
 
 ### PDF 版
