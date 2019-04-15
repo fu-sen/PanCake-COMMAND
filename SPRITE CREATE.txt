@@ -39,6 +39,6 @@ sCreate(0x00,0x49)
 スプライトパターン 00～AF を指定します。
 PCN の PanCake ページ SPRITE に一覧されています。
 
-http://pcn.club/ns/pancake.html
+http://pancake.shizentai.jp/
 
 1.0 より USER で生成した番号 FE・FF も指定可能です。
