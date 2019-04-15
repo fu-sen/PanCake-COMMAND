@@ -37,8 +37,17 @@ PanCake のコマンドに対応しています。\
 更に PanCake コマンドに対応する専用コマンドが存在します。\
 「IchigoCake BASIC」「IchigoCake JavaScript」の見出しで付加しています。\
 IchigoCake BASIC で専用コマンドを使用する場合、PRINT・? は不要です。\
-IchigoCake JavaScript では var p = new PanCake(); とオブジェクトを作成して\
+IchigoCake JavaScript では var pc = new PanCake(); とオブジェクトを作成して\
 専用コマンドを使用します。
+```
+var pc = new PanCake();
+
+pc.clear(0);
+while (1)
+{
+    pc.line(0,0,rnd(80),rnd(45),rnd(16));
+}
+```
 
 ### PDF 版
 
