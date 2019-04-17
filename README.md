@@ -17,7 +17,7 @@ Windows ではメモ帳を使用する事が可能です。
 * IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
-### PanCakeプチコン３号Edition について
+## PanCakeプチコン３号Edition について
 
 PanCakeプチコン３号Edition は背景画像・スプライトが\
 ニンテンドー3DS 版「プチコン３号」より得られた\
@@ -29,7 +29,7 @@ PanCakeプチコン３号Edition は背景画像・スプライトが\
 PanCakeプチコン３号Edition: (C)PCN (C)SmileBoom Co.Ltd.\
 SmileBoom、プチコン３号 は 株式会社スマイルブーム の登録商標です。
 
-### IchigoCake 専用コマンドについて
+## IchigoCake 専用コマンドについて
 
 IchigoCake には PanCake の機能が備わっていて、\
 IchigoCake BASIC および IchigoCake JavaScript では
@@ -45,7 +45,7 @@ var pc = new PanCake();
 pc.image(4);
 ```
 
-### PDF 版
+## PDF 版
 
 西澤 眞人さんが PDF 化した IchigoJam+PanCakeコマンドリファレンス を\
 Facebook グループ IchigoJam-FAN 内で公開しています。\
@@ -53,7 +53,7 @@ Facebook グループ IchigoJam-FAN 内で公開しています。\
 
 https://www.facebook.com/groups/ichigojam/626631837476573/
 
-### バイナリコマンド
+## バイナリコマンド
 
 PanCake では文字列でコマンドを送る以外に\
 バイナリコマンドが存在します。
@@ -84,7 +84,7 @@ PRINT CHR$(#80,#04,#00,#0A);
 
 ; はなくても構いません。余計な部分を PanCake は無視します。
 
-### IchigoJam BASIC 1.1 以降で使用する場合の注意
+## IchigoJam BASIC 1.1 以降で使用する場合の注意
 
 IchigoJam BASIC 1.1 beta（1.0.2 beta9～11 を含む）より\
 カーソル移動・画面クリア・スクロールなどを\
@@ -94,14 +94,21 @@ PanCake 1.0 までにこの仕様を反映していないため、\
 
 この対処として、IchigoJam BASIC 1.0.2 beta 11 より\
 UART コマンドが追加されているため、\
-UART 1 を予め実行してから PanCake のコマンド送出を行って下さい。
+**UART 1** を予め実行してから PanCake のコマンド送出を行って下さい。
 
 IchigoJam BASIC 1.0.2 beta 12 は 1.0.1 を継承しているため、\
 上記の対象外となります。\
 ただし、このバージョンを継承した正式版は公開されていません。\
 （IchigoJam BASIC 1.0.2 beta 11→1.1 beta→1.1.1 が正式公開されています）
 
-### ライセンス
+### IchigoCake BASIC を使用する場合
+
+IchigoCake BASIC では PC.～ コマンドが追加されていますが、\
+**PC.～ コマンドは UART に関係なく BASIC→PanCake の通信を行います。**\
+従って、PC.～ コマンドを使用する前提の場合、\
+シリアルを送出しない **UART 0** にする事で対処可能です。
+
+## ライセンス
 
 この文章は CC BY-NC で公開されている PanCake のページや\
 Pancake 付属ドキュメント readme.txt\
