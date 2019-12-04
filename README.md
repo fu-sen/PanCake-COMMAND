@@ -15,7 +15,7 @@ Windows ではメモ帳を使用する事が可能です。
 
 * PanCake (公式) http://pancake.shizentai.jp/
 * IchigoJam (公式) https://ichigojam.net/
-* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
 
 ## PanCakeプチコン３号Edition について
 
