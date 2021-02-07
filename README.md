@@ -113,7 +113,7 @@ IchigoCake BASIC では PC.～ コマンドが追加されていますが、\
 この文章は CC BY-NC で公開されている PanCake のページや\
 Pancake 付属ドキュメント readme.txt\
 Facebook グループ「IchigoJam-FAN」「PanCake-FAN」などの情報を元に\
-志賀 慶一 (ふうせん🎈 Fu-sen.) が独自に文章化しているものです。
+志賀 慶一 (ふうせん🎈 FU-SEN) が独自に文章化しているものです。
 
 - Facebook グループ IchigoJam-FAN<br />https://www.facebook.com/groups/ichigojam/ \
 - Facebook グループ IchigonQuest,IchigoLatte,etc-FAN<br />https://www.facebook.com/groups/568222796651326/
@@ -124,7 +124,7 @@ Facebook グループ「IchigoJam-FAN」「PanCake-FAN」などの情報を元�
 
 NaturalStyle Co. Ltd. http://na-s.jp/
 
-Maked by 志賀 慶一 (ふうせん🎈 Fu-sen.) | Keiichi SHIGA ( BALLOON a.k.a. Fu-sen. ), 2015-2020.
+Maked by [志賀 慶一](https://keiichi-shiga.ovh/) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://facebook.com/keiichishiga) ( [🎈 BALLOON | FU-SEN](https://balloon.cm/) ), 2015-2021.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
