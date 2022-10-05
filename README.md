@@ -124,7 +124,7 @@ Facebook グループ「IchigoJam-FAN」「PanCake-FAN」などの情報を元�
 
 NaturalStyle Co. Ltd. http://na-s.jp/
 
-Maked by [志賀 慶一](https://keiichi-shiga.ovh/) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://facebook.com/keiichishiga) ( [🎈 BALLOON | FU-SEN](https://balloon.gdn/) ), 2015-2021.
+Maked by [志賀 慶一](https://keiichi-shiga.ovh/) ([ふうせん🎈 FU-SEN](https://balloon.asia/)) | [Keiichi SHIGA](https://facebook.com/keiichishiga) ( [🎈 BALLOON | FU-SEN](https://balloon.gdn/) ), 2015-2022.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 
